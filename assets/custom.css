@@ -1,45 +1,11 @@
-body {
-  font-family: 'Ubuntu', sans-serif;
-  margin-top: 40px;
-  background-color: #000000;
-  color: #dcdcdc;
+.header {
+    margin-top: 18rem;
 }
 
-
-a {
-  color: #00c97e;
+.subheader {
+ margin-top: 9rem;   
 }
 
-nav {
-  text-align: right;
-}
-
-nav ul {
-  list-style-type: none;
-}
-
-nav ul li {
-  display: inline;
-  margin-left: 1em;
-  border: 1px #5776d4 solid;
-  border-radius: 1em;
-  padding: 5px 10px;
-}
-
-nav ul li a {
-  text-decoration: none;
-}
-
-nav ul li #active {
-  text-decoration: underline;
-}
-
-code {
-  background-color: #000000;
-  border:1px  #583481 solid;
-}
-
-
-hr {
-  border-top: 2px  #4b282e solid;
+.text-center {
+    text-align: center;
 }
